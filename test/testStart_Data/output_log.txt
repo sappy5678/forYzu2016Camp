@@ -1,0 +1,26 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x887a0004)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [vm3dum.dll 8.15.1.32]
+    Renderer: VMware SVGA 3D
+    Vendor:   VMWare
+    VRAM:     307 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=0 RESZ=0 SlowINTZ=0 ATOC=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+Platform assembly: C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 32Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
