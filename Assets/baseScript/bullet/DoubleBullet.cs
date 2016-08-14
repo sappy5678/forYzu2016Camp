@@ -6,12 +6,16 @@ public class DoubleBullet : MonoBehaviour {
     public int numberOfBullet = 1;
     public float forceLevel = 6;
     public float velocity = 0.16f;
-    
+    public float startRoate = 90f;
 
-	// Use this for initialization
-	void Start () {
-	
-	}
+    // Use this for initialization
+    void Start()
+    {
+        if (gameObject.tag != "Player")
+        {
+            InvokeRepeating("CreateBullet", 2f, 1f);
+        }
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -26,7 +30,7 @@ public class DoubleBullet : MonoBehaviour {
         float rotate = (float)(forceLevel *10f) / numberOfBullet;
         
         float tmp = rotate;
-        rotate = 90f + (forceLevel/2f*10f);
+        rotate = startRoate + (forceLevel/2f*10f);
         //Quaternion tmp = Quaternion.Euler(0f, 0f, 180 - forceLevel * 10);
         //Quaternion tmp = Quaternion.identity;
         //gameObject.transform.rotation = Quaternion.Euler(0f, 0f, 180f- forceLevel * 10f);
@@ -44,6 +48,7 @@ public class DoubleBullet : MonoBehaviour {
             // obj.GetComponent<line>().Yvelocity = (Quaternion.Euler(0, 90, 0) * (new Vector3(0f, 0f, rotate))).y;
             obj.GetComponent<line>().Xvelocity = Mathf.Cos(rotate * Mathf.Deg2Rad) * velocity;
             obj.GetComponent<line>().Yvelocity = Mathf.Sin(rotate * Mathf.Deg2Rad) * velocity;
+
             //obj.GetComponent<Rigidbody2D>().velocity = velocity;
             //tmp *= Quaternion.Euler(0f, 0f, 180f - forceLevel * 10f);
             rotate -= tmp;

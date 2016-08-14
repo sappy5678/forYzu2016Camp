@@ -5,7 +5,7 @@ public class enemywave_symmetry : MonoBehaviour {
     public GameObject enemy;
     float Xlocal = 4f;
     [SerializeField]
-    float Xvelocity = 0f, Yvelocity = 0f, Xacceleration = 0f, Yacceleration = 0f, Sseconds = -1f, Eseconds = -1f, worktime = 10f;
+    float Xvelocity = 0f, Yvelocity = 0f, Xacceleration = 0f, Yacceleration = 0f, Sseconds = -1f, Eseconds = -1f, worktime = 10f+ Time.time;
     // Use this for initialization
     void Start ()
     {

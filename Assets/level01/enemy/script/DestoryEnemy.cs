@@ -7,7 +7,7 @@ public class DestoryEnemy : MonoBehaviour {
     [SerializeField]
     int score = 3;
     [SerializeField]
-    float boom = 0f, power = 0.05f, life=0f;
+    float boom = 0f, power = 0.05f, life=2f;
 
     // Use this for initialization
     void Start () {
@@ -26,13 +26,17 @@ public class DestoryEnemy : MonoBehaviour {
     {
         if (col.tag == "Bullet")
         {
-           
-            
+            //判定生命
+            life--;
+            if (life < 1)
+            {
+                DestroyObject(gameObject);
+            }
             player.GetComponent<MainBehaviourScript>().score = score;
             player.GetComponent<MainBehaviourScript>().power += power;
             player.GetComponent<MainBehaviourScript>().life += life;
             player.GetComponent<MainBehaviourScript>().boom += boom;
-            DestroyObject(gameObject);
+            
         }
     }
 }

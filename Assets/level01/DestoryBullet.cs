@@ -18,7 +18,7 @@ public class DestoryBullet : MonoBehaviour {
     //如果子彈碰到牆
     void OnTriggerEnter2D(Collider2D col)
     {
-        if (col.tag == "Bullet" || col.tag == "Enemy")
+        if (col.tag == "Bullet" || col.tag == "Enemy" || col.tag == "EnemyBullet")
         {
             DestroyObject(col.gameObject);
         }

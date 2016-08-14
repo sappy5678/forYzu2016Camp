@@ -17,7 +17,7 @@ Platform assembly: C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\tes
 Loading C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.058 seconds
+- Completed reload, in  0.069 seconds
 Platform assembly: C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 32Hz; virtual: 1920x1080 at 0,0
