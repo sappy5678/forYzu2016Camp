@@ -1,0 +1,1837 @@
+fileFormatVersion: 2
+guid: 57e6a5af4f561194dacc8074d439a3ca
+timeCreated: 1471227612
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ememy_bullet-3_0
+    21300002: ememy_bullet-3_1
+    21300004: ememy_bullet-3_2
+    21300006: ememy_bullet-3_3
+    21300008: ememy_bullet-3_4
+    21300010: ememy_bullet-3_5
+    21300012: ememy_bullet-3_6
+    21300014: ememy_bullet-3_7
+    21300016: ememy_bullet-3_8
+    21300018: ememy_bullet-3_9
+    21300020: ememy_bullet-3_10
+    21300022: ememy_bullet-3_11
+    21300024: ememy_bullet-3_12
+    21300026: ememy_bullet-3_13
+    21300028: ememy_bullet-3_14
+    21300030: ememy_bullet-3_15
+    21300032: ememy_bullet-3_16
+    21300034: ememy_bullet-3_17
+    21300036: ememy_bullet-3_18
+    21300038: ememy_bullet-3_19
+    21300040: ememy_bullet-3_20
+    21300042: ememy_bullet-3_21
+    21300044: ememy_bullet-3_22
+    21300046: ememy_bullet-3_23
+    21300048: ememy_bullet-3_24
+    21300050: ememy_bullet-3_25
+    21300052: ememy_bullet-3_26
+    21300054: ememy_bullet-3_27
+    21300056: ememy_bullet-3_28
+    21300058: ememy_bullet-3_29
+    21300060: ememy_bullet-3_30
+    21300062: ememy_bullet-3_31
+    21300064: ememy_bullet-3_32
+    21300066: ememy_bullet-3_33
+    21300068: ememy_bullet-3_34
+    21300070: ememy_bullet-3_35
+    21300072: ememy_bullet-3_36
+    21300074: ememy_bullet-3_37
+    21300076: ememy_bullet-3_38
+    21300078: ememy_bullet-3_39
+    21300080: ememy_bullet-3_40
+    21300082: ememy_bullet-3_41
+    21300084: ememy_bullet-3_42
+    21300086: ememy_bullet-3_43
+    21300088: ememy_bullet-3_44
+    21300090: ememy_bullet-3_45
+    21300092: ememy_bullet-3_46
+    21300094: ememy_bullet-3_47
+    21300096: ememy_bullet-3_48
+    21300098: ememy_bullet-3_49
+    21300100: ememy_bullet-3_50
+    21300102: ememy_bullet-3_51
+    21300104: ememy_bullet-3_52
+    21300106: ememy_bullet-3_53
+    21300108: ememy_bullet-3_54
+    21300110: ememy_bullet-3_55
+    21300112: ememy_bullet-3_56
+    21300114: ememy_bullet-3_57
+    21300116: ememy_bullet-3_58
+    21300118: ememy_bullet-3_59
+    21300120: ememy_bullet-3_60
+    21300122: ememy_bullet-3_61
+    21300124: ememy_bullet-3_62
+    21300126: ememy_bullet-3_63
+    21300128: ememy_bullet-3_64
+    21300130: ememy_bullet-3_65
+    21300132: ememy_bullet-3_66
+    21300134: ememy_bullet-3_67
+    21300136: ememy_bullet-3_68
+    21300138: ememy_bullet-3_69
+    21300140: ememy_bullet-3_70
+    21300142: ememy_bullet-3_71
+    21300144: ememy_bullet-3_72
+    21300146: ememy_bullet-3_73
+    21300148: ememy_bullet-3_74
+    21300150: ememy_bullet-3_75
+    21300152: ememy_bullet-3_76
+    21300154: ememy_bullet-3_77
+    21300156: ememy_bullet-3_78
+    21300158: ememy_bullet-3_79
+    21300160: ememy_bullet-3_80
+    21300162: ememy_bullet-3_81
+    21300164: ememy_bullet-3_82
+    21300166: ememy_bullet-3_83
+    21300168: ememy_bullet-3_84
+    21300170: ememy_bullet-3_85
+    21300172: ememy_bullet-3_86
+    21300174: ememy_bullet-3_87
+    21300176: ememy_bullet-3_88
+    21300178: ememy_bullet-3_89
+    21300180: ememy_bullet-3_90
+    21300182: ememy_bullet-3_91
+    21300184: ememy_bullet-3_92
+    21300186: ememy_bullet-3_93
+    21300188: ememy_bullet-3_94
+    21300190: ememy_bullet-3_95
+    21300192: ememy_bullet-3_96
+    21300194: ememy_bullet-3_97
+    21300196: ememy_bullet-3_98
+    21300198: ememy_bullet-3_99
+    21300200: ememy_bullet-3_100
+    21300202: ememy_bullet-3_101
+    21300204: ememy_bullet-3_102
+    21300206: ememy_bullet-3_103
+    21300208: ememy_bullet-3_104
+    21300210: ememy_bullet-3_105
+    21300212: ememy_bullet-3_106
+    21300214: ememy_bullet-3_107
+    21300216: ememy_bullet-3_108
+    21300218: ememy_bullet-3_109
+    21300220: ememy_bullet-3_110
+    21300222: ememy_bullet-3_111
+    21300224: ememy_bullet-3_112
+    21300226: ememy_bullet-3_113
+    21300228: ememy_bullet-3_114
+    21300230: ememy_bullet-3_115
+    21300232: ememy_bullet-3_116
+    21300234: ememy_bullet-3_117
+    21300236: ememy_bullet-3_118
+    21300238: ememy_bullet-3_119
+    21300240: ememy_bullet-3_120
+    21300242: ememy_bullet-3_121
+    21300244: ememy_bullet-3_122
+    21300246: ememy_bullet-3_123
+    21300248: ememy_bullet-3_124
+    21300250: ememy_bullet-3_125
+    21300252: ememy_bullet-3_126
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ememy_bullet-3_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 246
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 248
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 246
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 248
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 246
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 247
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 248
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 220
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 222
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_16
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 220
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 222
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_20
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 220
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_22
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 222
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 211
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 211
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_27
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_29
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 180
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 180
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_34
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 180
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 180
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_36
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 180
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 180
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_38
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 180
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 180
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_42
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_43
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 164
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_46
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 148
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_47
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 148
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_48
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 148
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 148
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_50
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 148
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_51
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 148
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_52
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 148
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_53
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 148
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_54
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_55
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_56
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_57
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_59
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 140
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_61
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_62
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_63
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_65
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 116
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_66
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 116
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_67
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 116
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_68
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 116
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_69
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 116
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_70
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 116
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_71
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 116
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_72
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 116
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_73
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 116
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_74
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_75
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_76
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_77
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_79
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 92
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_80
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 107
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_81
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 107
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_82
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 107
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_83
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_84
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_85
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_86
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_88
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_89
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 75
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_90
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 75
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_91
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 75
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_92
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 75
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_93
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 75
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_94
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 75
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_95
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 75
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_96
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 75
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_97
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 75
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_98
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 75
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_99
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 75
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_100
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 75
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_101
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 66
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_102
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 66
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_103
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 66
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 59
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_105
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 59
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_106
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_107
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 32
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_109
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 32
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_110
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_111
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 32
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_112
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 32
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_113
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 32
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_114
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 32
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_115
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_116
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 8
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_118
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 8
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_119
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 8
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_120
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 8
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_121
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_122
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 8
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_123
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_124
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 8
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_125
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ememy_bullet-3_126
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

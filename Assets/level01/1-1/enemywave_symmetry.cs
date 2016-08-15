@@ -5,11 +5,12 @@ public class enemywave_symmetry : MonoBehaviour {
     public GameObject enemy;
     float Xlocal = 4f;
     [SerializeField]
-    float Xvelocity = 0f, Yvelocity = 0f, Xacceleration = 0f, Yacceleration = 0f, Sseconds = -1f, Eseconds = -1f, worktime = 10f+ Time.time;
+    float Xvelocity = 0f, Yvelocity = 0f, Xacceleration = 0f, Yacceleration = 0f, Sseconds = -1f, Eseconds = -1f, worktime = 10f;
     // Use this for initialization
     void Start ()
     {
         InvokeRepeating("CreateEnemy", 0f, 1f);
+        worktime += Time.time;
 
     }
 

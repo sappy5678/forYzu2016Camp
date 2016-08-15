@@ -65,8 +65,10 @@
   <ItemGroup>
     <Compile Include="Assets\ShowCheckPoint.cs" />
     <Compile Include="Assets\baseScript\bullet\DoubleBullet.cs" />
+    <Compile Include="Assets\baseScript\event\ShowPlayerData.cs" />
     <Compile Include="Assets\baseScript\route\circle.cs" />
     <Compile Include="Assets\baseScript\route\line.cs" />
+    <Compile Include="Assets\level01\1-1\enemywave_U2D.cs" />
     <Compile Include="Assets\level01\1-1\enemywave_symmetry.cs" />
     <Compile Include="Assets\level01\DestoryBullet.cs" />
     <Compile Include="Assets\level01\MainBehaviourScript.cs" />

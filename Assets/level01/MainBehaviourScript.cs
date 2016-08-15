@@ -73,8 +73,13 @@ public class MainBehaviourScript : MonoBehaviour {
     {
         if (col.tag == "EnemyBullet")
         {
-            DestroyObject(gameObject);
-            SceneManager.LoadScene("start");
+            life--;
+            if (life < 1)
+            {
+                DestroyObject(gameObject);
+                SceneManager.LoadScene("start");
+            }
+            ShowPlayerData.Instance.Showscore();
         }
     }
 

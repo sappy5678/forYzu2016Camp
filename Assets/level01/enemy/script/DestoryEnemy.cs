@@ -4,6 +4,8 @@ using System.Collections;
 public class DestoryEnemy : MonoBehaviour {
 
     public GameObject player;
+    public Canvas ScoreText;
+    public GameObject PlayerData;
     [SerializeField]
     int score = 3;
     [SerializeField]
@@ -31,11 +33,12 @@ public class DestoryEnemy : MonoBehaviour {
             if (life < 1)
             {
                 DestroyObject(gameObject);
+                player.GetComponent<MainBehaviourScript>().power += power;
+                player.GetComponent<MainBehaviourScript>().life += life;
+                player.GetComponent<MainBehaviourScript>().boom += boom;
             }
-            player.GetComponent<MainBehaviourScript>().score = score;
-            player.GetComponent<MainBehaviourScript>().power += power;
-            player.GetComponent<MainBehaviourScript>().life += life;
-            player.GetComponent<MainBehaviourScript>().boom += boom;
+            player.GetComponent<MainBehaviourScript>().score += score;
+            ShowPlayerData.Instance.Showscore();
             
         }
     }

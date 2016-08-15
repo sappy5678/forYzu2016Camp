@@ -16,7 +16,7 @@ public class ShowCheckPoint : MonoBehaviour {
         {
             GetComponent<SpriteRenderer>().enabled = true;
             player.GetComponent<DoubleBullet>().forceLevel = 1;
-            player.GetComponent<MainBehaviourScript>().velocity = 0.1f;
+            player.GetComponent<MainBehaviourScript>().velocity = 0.05f;
         }
 
         //非專注模式

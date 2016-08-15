@@ -7,13 +7,14 @@ public class DoubleBullet : MonoBehaviour {
     public float forceLevel = 6;
     public float velocity = 0.16f;
     public float startRoate = 90f;
+    public float frequence = 2f;
 
     // Use this for initialization
     void Start()
     {
         if (gameObject.tag != "Player")
         {
-            InvokeRepeating("CreateBullet", 2f, 1f);
+            InvokeRepeating("CreateBullet", 2f, frequence);
         }
     }
 	

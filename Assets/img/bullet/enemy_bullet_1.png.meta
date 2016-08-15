@@ -1,0 +1,2369 @@
+fileFormatVersion: 2
+guid: c6993df932ffda0409422d2abb655cb3
+timeCreated: 1471227660
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy_bullet_1_0
+    21300002: enemy_bullet_1_1
+    21300004: enemy_bullet_1_2
+    21300006: enemy_bullet_1_3
+    21300008: enemy_bullet_1_4
+    21300010: enemy_bullet_1_5
+    21300012: enemy_bullet_1_6
+    21300014: enemy_bullet_1_7
+    21300016: enemy_bullet_1_8
+    21300018: enemy_bullet_1_9
+    21300020: enemy_bullet_1_10
+    21300022: enemy_bullet_1_11
+    21300024: enemy_bullet_1_12
+    21300026: enemy_bullet_1_13
+    21300028: enemy_bullet_1_14
+    21300030: enemy_bullet_1_15
+    21300032: enemy_bullet_1_16
+    21300034: enemy_bullet_1_17
+    21300036: enemy_bullet_1_18
+    21300038: enemy_bullet_1_19
+    21300040: enemy_bullet_1_20
+    21300042: enemy_bullet_1_21
+    21300044: enemy_bullet_1_22
+    21300046: enemy_bullet_1_23
+    21300048: enemy_bullet_1_24
+    21300050: enemy_bullet_1_25
+    21300052: enemy_bullet_1_26
+    21300054: enemy_bullet_1_27
+    21300056: enemy_bullet_1_28
+    21300058: enemy_bullet_1_29
+    21300060: enemy_bullet_1_30
+    21300062: enemy_bullet_1_31
+    21300064: enemy_bullet_1_32
+    21300066: enemy_bullet_1_33
+    21300068: enemy_bullet_1_34
+    21300070: enemy_bullet_1_35
+    21300072: enemy_bullet_1_36
+    21300074: enemy_bullet_1_37
+    21300076: enemy_bullet_1_38
+    21300078: enemy_bullet_1_39
+    21300080: enemy_bullet_1_40
+    21300082: enemy_bullet_1_41
+    21300084: enemy_bullet_1_42
+    21300086: enemy_bullet_1_43
+    21300088: enemy_bullet_1_44
+    21300090: enemy_bullet_1_45
+    21300092: enemy_bullet_1_46
+    21300094: enemy_bullet_1_47
+    21300096: enemy_bullet_1_48
+    21300098: enemy_bullet_1_49
+    21300100: enemy_bullet_1_50
+    21300102: enemy_bullet_1_51
+    21300104: enemy_bullet_1_52
+    21300106: enemy_bullet_1_53
+    21300108: enemy_bullet_1_54
+    21300110: enemy_bullet_1_55
+    21300112: enemy_bullet_1_56
+    21300114: enemy_bullet_1_57
+    21300116: enemy_bullet_1_58
+    21300118: enemy_bullet_1_59
+    21300120: enemy_bullet_1_60
+    21300122: enemy_bullet_1_61
+    21300124: enemy_bullet_1_62
+    21300126: enemy_bullet_1_63
+    21300128: enemy_bullet_1_64
+    21300130: enemy_bullet_1_65
+    21300132: enemy_bullet_1_66
+    21300134: enemy_bullet_1_67
+    21300136: enemy_bullet_1_68
+    21300138: enemy_bullet_1_69
+    21300140: enemy_bullet_1_70
+    21300142: enemy_bullet_1_71
+    21300144: enemy_bullet_1_72
+    21300146: enemy_bullet_1_73
+    21300148: enemy_bullet_1_74
+    21300150: enemy_bullet_1_75
+    21300152: enemy_bullet_1_76
+    21300154: enemy_bullet_1_77
+    21300156: enemy_bullet_1_78
+    21300158: enemy_bullet_1_79
+    21300160: enemy_bullet_1_80
+    21300162: enemy_bullet_1_81
+    21300164: enemy_bullet_1_82
+    21300166: enemy_bullet_1_83
+    21300168: enemy_bullet_1_84
+    21300170: enemy_bullet_1_85
+    21300172: enemy_bullet_1_86
+    21300174: enemy_bullet_1_87
+    21300176: enemy_bullet_1_88
+    21300178: enemy_bullet_1_89
+    21300180: enemy_bullet_1_90
+    21300182: enemy_bullet_1_91
+    21300184: enemy_bullet_1_92
+    21300186: enemy_bullet_1_93
+    21300188: enemy_bullet_1_94
+    21300190: enemy_bullet_1_95
+    21300192: enemy_bullet_1_96
+    21300194: enemy_bullet_1_97
+    21300196: enemy_bullet_1_98
+    21300198: enemy_bullet_1_99
+    21300200: enemy_bullet_1_100
+    21300202: enemy_bullet_1_101
+    21300204: enemy_bullet_1_102
+    21300206: enemy_bullet_1_103
+    21300208: enemy_bullet_1_104
+    21300210: enemy_bullet_1_105
+    21300212: enemy_bullet_1_106
+    21300214: enemy_bullet_1_107
+    21300216: enemy_bullet_1_108
+    21300218: enemy_bullet_1_109
+    21300220: enemy_bullet_1_110
+    21300222: enemy_bullet_1_111
+    21300224: enemy_bullet_1_112
+    21300226: enemy_bullet_1_113
+    21300228: enemy_bullet_1_114
+    21300230: enemy_bullet_1_115
+    21300232: enemy_bullet_1_116
+    21300234: enemy_bullet_1_117
+    21300236: enemy_bullet_1_118
+    21300238: enemy_bullet_1_119
+    21300240: enemy_bullet_1_120
+    21300242: enemy_bullet_1_121
+    21300244: enemy_bullet_1_122
+    21300246: enemy_bullet_1_123
+    21300248: enemy_bullet_1_124
+    21300250: enemy_bullet_1_125
+    21300252: enemy_bullet_1_126
+    21300254: enemy_bullet_1_127
+    21300256: enemy_bullet_1_128
+    21300258: enemy_bullet_1_129
+    21300260: enemy_bullet_1_130
+    21300262: enemy_bullet_1_131
+    21300264: enemy_bullet_1_132
+    21300266: enemy_bullet_1_133
+    21300268: enemy_bullet_1_134
+    21300270: enemy_bullet_1_135
+    21300272: enemy_bullet_1_136
+    21300274: enemy_bullet_1_137
+    21300276: enemy_bullet_1_138
+    21300278: enemy_bullet_1_139
+    21300280: enemy_bullet_1_140
+    21300282: enemy_bullet_1_141
+    21300284: enemy_bullet_1_142
+    21300286: enemy_bullet_1_143
+    21300288: enemy_bullet_1_144
+    21300290: enemy_bullet_1_145
+    21300292: enemy_bullet_1_146
+    21300294: enemy_bullet_1_147
+    21300296: enemy_bullet_1_148
+    21300298: enemy_bullet_1_149
+    21300300: enemy_bullet_1_150
+    21300302: enemy_bullet_1_151
+    21300304: enemy_bullet_1_152
+    21300306: enemy_bullet_1_153
+    21300308: enemy_bullet_1_154
+    21300310: enemy_bullet_1_155
+    21300312: enemy_bullet_1_156
+    21300314: enemy_bullet_1_157
+    21300316: enemy_bullet_1_158
+    21300318: enemy_bullet_1_159
+    21300320: enemy_bullet_1_160
+    21300322: enemy_bullet_1_161
+    21300324: enemy_bullet_1_162
+    21300326: enemy_bullet_1_163
+    21300328: enemy_bullet_1_164
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy_bullet_1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 683
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 687
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 693
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 699
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 703
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 707
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_6
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 709
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_7
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 712
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_8
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 712
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_9
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 660
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 632
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 632
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_12
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 623
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_13
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 616
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_14
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 610
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 646
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 637
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_17
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 650
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_18
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 645
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 653
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_20
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 645
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_21
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 645
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_22
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 637
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 637
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_24
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 618
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_25
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 607
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_26
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 620
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_27
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 614
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_28
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 616
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_29
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 562
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_30
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 613
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_31
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 562
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 535
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 539
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_34
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 545
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_35
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 551
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_36
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 555
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_37
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 559
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_38
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 561
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_39
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 564
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_40
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 564
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_41
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 468
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_42
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 462
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 498
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_44
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 502
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_45
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 497
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_46
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 505
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_47
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 497
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_48
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 512
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_49
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 497
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 489
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 489
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_52
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 484
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_53
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 484
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_54
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 475
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_55
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 470
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_56
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 489
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_57
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 459
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_58
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 472
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_59
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 466
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_60
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 468
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_61
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 414
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_62
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 465
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_63
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 414
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 387
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_65
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 391
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_66
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 397
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_67
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 403
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_68
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 407
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_69
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 411
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_70
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 413
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_71
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 416
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_72
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 416
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_73
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 320
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_74
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 314
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_75
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 350
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_76
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 354
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_77
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 349
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_78
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 357
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_79
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 349
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_80
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 364
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_81
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 349
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_82
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 341
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_83
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 341
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_84
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 336
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_85
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 336
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_86
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 327
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_87
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 322
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_88
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 341
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_89
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 311
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_90
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 324
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_91
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 318
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_92
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 320
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_93
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 266
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_94
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 317
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_95
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 266
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_96
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 239
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 243
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_98
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 249
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_99
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 255
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_100
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 259
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_101
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 263
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_102
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 265
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_103
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 268
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_104
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 268
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_105
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 172
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_106
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 166
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_107
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 202
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_108
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 206
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_109
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 201
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_110
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 209
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_111
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 201
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_112
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 216
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_113
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 201
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_114
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 193
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_115
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 193
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_116
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 188
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_117
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 188
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_118
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 179
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_119
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 174
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_120
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 193
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_121
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 163
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_122
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_123
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 170
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_124
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 172
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_125
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 118
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_126
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 169
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_127
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 118
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_128
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 91
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_129
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 95
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_130
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 101
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_131
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 107
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_132
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 111
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_133
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_134
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 117
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_135
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 120
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_136
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 120
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_137
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 24
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_138
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 18
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_139
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 54
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_140
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 58
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_141
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 53
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_142
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 61
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_143
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 53
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_144
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 68
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_145
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 53
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_146
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 45
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_147
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 45
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_148
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 40
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_149
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 40
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_150
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_151
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 26
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_152
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 45
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_153
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 15
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_154
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_155
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 22
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_156
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 24
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_157
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 19
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_158
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 21
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_159
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 17
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_160
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_161
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_162
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_163
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy_bullet_1_164
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
