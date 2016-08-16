@@ -19,7 +19,8 @@ public class enemywave_symmetry : MonoBehaviour {
     {
         if(Time.time > worktime)
         {
-            DestroyObject(gameObject);
+            this.enabled = false;
+            CancelInvoke();
         }
     }
 

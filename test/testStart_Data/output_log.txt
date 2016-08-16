@@ -17,7 +17,7 @@ Platform assembly: C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\tes
 Loading C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.056 seconds
+- Completed reload, in  0.058 seconds
 Platform assembly: C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\sappy5678\develope\forYzu2016Camp\forYzu2016Camp\test\testStart_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 32Hz; virtual: 1920x1080 at 0,0
@@ -25,84 +25,25 @@ desktop: 1920x1080 32Hz; virtual: 1920x1080 at 0,0
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.928011 ms
+UnloadTime: 0.932715 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.035065 ms
+UnloadTime: 6.001281 ms
 
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 284.
-Total: 0.238631 ms (FindLiveObjects: 0.018816 ms CreateObjectMapping: 0.017106 ms MarkObjects: 0.189023 ms  DeleteObjects: 0.012829 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-NullReferenceException
-  at (wrapper managed-to-native) UnityEngine.GameObject:get_transform ()
-  at line.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at line.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-UnloadTime: 1.392016 ms
-
-Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 197.
-Total: 0.236065 ms (FindLiveObjects: 0.011546 ms CreateObjectMapping: 0.013684 ms MarkObjects: 0.185602 ms  DeleteObjects: 0.024376 ms)
-
-HandleD3DDeviceLost
-  HandleD3DDeviceLost: needs reset, doing it
-FullResetD3DDevice
-ResetD3DDevice
-dev->Reset
-D3Dwindow device not lost anymore
-HandleD3DDeviceLost
-  HandleD3DDeviceLost: needs reset, doing it
-FullResetD3DDevice
-ResetD3DDevice
-dev->Reset
-D3Dwindow device not lost anymore
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.599144 ms
-
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 284.
-Total: 0.292515 ms (FindLiveObjects: 0.022238 ms CreateObjectMapping: 0.014112 ms MarkObjects: 0.242480 ms  DeleteObjects: 0.012829 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 0.222380 ms (FindLiveObjects: 0.014967 ms CreateObjectMapping: 0.025231 ms MarkObjects: 0.169778 ms  DeleteObjects: 0.011974 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.003563 ms
+UnloadTime: 5.357660 ms
 
-Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 197.
-Total: 0.231788 ms (FindLiveObjects: 0.011974 ms CreateObjectMapping: 0.012829 ms MarkObjects: 0.176193 ms  DeleteObjects: 0.029935 ms)
+Unloading 71 unused Assets to reduce memory usage. Loaded Objects now: 199.
+Total: 0.291232 ms (FindLiveObjects: 0.014540 ms CreateObjectMapping: 0.019244 ms MarkObjects: 0.224091 ms  DeleteObjects: 0.032501 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.511047 ms
+UnloadTime: 0.455880 ms
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 284.
-Total: 0.201425 ms (FindLiveObjects: 0.012401 ms CreateObjectMapping: 0.013257 ms MarkObjects: 0.163791 ms  DeleteObjects: 0.011119 ms)
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 0.262580 ms (FindLiveObjects: 0.024376 ms CreateObjectMapping: 0.019672 ms MarkObjects: 0.203136 ms  DeleteObjects: 0.014540 ms)
 
-HandleD3DDeviceLost
-  HandleD3DDeviceLost: needs reset, doing it
-FullResetD3DDevice
-ResetD3DDevice
-dev->Reset
-D3Dwindow device not lost anymore
-HandleD3DDeviceLost
-  HandleD3DDeviceLost: needs reset, doing it
-FullResetD3DDevice
-ResetD3DDevice
-dev->Reset
-D3Dwindow device not lost anymore
-HandleD3DDeviceLost
-  HandleD3DDeviceLost: needs reset, doing it
-FullResetD3DDevice
-ResetD3DDevice
-dev->Reset
-D3Dwindow device not lost anymore
-HandleD3DDeviceLost
-  HandleD3DDeviceLost: needs reset, doing it
-FullResetD3DDevice
-ResetD3DDevice
-dev->Reset
-D3Dwindow device not lost anymore
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 4798 -> priority: 1 
-  Thread -> id: 7308 -> priority: 1 
+  Thread -> id: 2328 -> priority: 1 
+  Thread -> id: 27c0 -> priority: 1 

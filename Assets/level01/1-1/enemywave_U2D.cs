@@ -6,18 +6,20 @@ public class enemywave_U2D : MonoBehaviour
     public GameObject enemy;
     float Xlocal = 0f, Ylocal=5.5f,oneSecond=1f;
     [SerializeField]
-    float Xvelocity = 0f, Yvelocity = -0.01f, Xacceleration = 0f, Yacceleration = 0.001f, Sseconds = 0f, Eseconds = 10f, worktime = 5f;
+    float frequence = 1.2f,deletime=0f,Xvelocity = 0f, Yvelocity = -0.01f, Xacceleration = 0f, Yacceleration = 0.001f, Sseconds = 0f, Eseconds = 10f, worktime = 5f;
     public int numberOfEnemy = 5;
+    [SerializeField]
     float[] Xl = { 0, 1, -1, 2, -2, 0f };
     float diff;
+    int tmp = 0;
     // Use this for initialization
     void Start()
     {
         
-        InvokeRepeating("CreateEnemy", 0.5f, 1f);
-        worktime += Time.time;
-        oneSecond = Time.time;
-        diff = Time.time;
+        //InvokeRepeating("CreateEnemy", deletime, frequence);
+        worktime += Time.time+ deletime;
+        oneSecond = Time.time + deletime;
+        diff = Time.time + deletime;
 
 
     }
@@ -32,12 +34,21 @@ public class enemywave_U2D : MonoBehaviour
             this.enabled = false;
             CancelInvoke();
         }
-        if (Time.time > oneSecond)
+
+        if (numberOfEnemy <= 0)
         {
-            
-            Xlocal = Xl[(int)(oneSecond-diff)];
-            oneSecond += (1f);
+            this.enabled = false;
+            CancelInvoke();
         }
+        if (Time.time - oneSecond>frequence)
+        {
+            Invoke("CreateEnemy", 0);
+            Xlocal = Xl[tmp];
+            oneSecond = frequence+ Time.time;
+            numberOfEnemy--;
+            tmp++;
+        }
+
     }
 
     void CreateEnemy()

@@ -7,13 +7,17 @@ public class DoubleBullet : MonoBehaviour {
     public float forceLevel = 6;
     public float velocity = 0.16f;
     public float startRoate = 90f;
+    public float circleRoateSpeed = 0f,cirtmp;
     public float frequence = 2f;
+    
 
     // Use this for initialization
     void Start()
     {
+        cirtmp = circleRoateSpeed;
         if (gameObject.tag != "Player")
         {
+            
             InvokeRepeating("CreateBullet", 2f, frequence);
         }
     }
@@ -47,12 +51,16 @@ public class DoubleBullet : MonoBehaviour {
 
             // obj.GetComponent<line>().Xvelocity = (Quaternion.Euler(0, 90, 0) * (new Vector3(0f, 0f, rotate))).x;
             // obj.GetComponent<line>().Yvelocity = (Quaternion.Euler(0, 90, 0) * (new Vector3(0f, 0f, rotate))).y;
-            obj.GetComponent<line>().Xvelocity = Mathf.Cos(rotate * Mathf.Deg2Rad) * velocity;
-            obj.GetComponent<line>().Yvelocity = Mathf.Sin(rotate * Mathf.Deg2Rad) * velocity;
+            obj.GetComponent<line>().Xvelocity = Mathf.Cos((rotate+ circleRoateSpeed) * Mathf.Deg2Rad) * velocity;
+            obj.GetComponent<line>().Yvelocity = Mathf.Sin((rotate + circleRoateSpeed) * Mathf.Deg2Rad) * velocity;
 
             //obj.GetComponent<Rigidbody2D>().velocity = velocity;
             //tmp *= Quaternion.Euler(0f, 0f, 180f - forceLevel * 10f);
             rotate -= tmp;
         }
+        circleRoateSpeed += cirtmp;
+
+        circleRoateSpeed %= 360;
+        
     }
 }

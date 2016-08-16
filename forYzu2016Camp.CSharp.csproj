@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\EventController.cs" />
     <Compile Include="Assets\ShowCheckPoint.cs" />
     <Compile Include="Assets\baseScript\bullet\DoubleBullet.cs" />
     <Compile Include="Assets\baseScript\event\ShowPlayerData.cs" />
@@ -70,6 +71,7 @@
     <Compile Include="Assets\baseScript\route\line.cs" />
     <Compile Include="Assets\level01\1-1\enemywave_U2D.cs" />
     <Compile Include="Assets\level01\1-1\enemywave_symmetry.cs" />
+    <Compile Include="Assets\level01\1-2\enemywave_duoBoss.cs" />
     <Compile Include="Assets\level01\DestoryBullet.cs" />
     <Compile Include="Assets\level01\MainBehaviourScript.cs" />
     <Compile Include="Assets\level01\enemy\script\DestoryEnemy.cs" />
